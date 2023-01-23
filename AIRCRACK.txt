@@ -1,0 +1,10 @@
+{
+    "editor.minimap.enabled": false,
+    "emmet.showSuggestionsAsSnippets": false,
+    "emmet.showExpandedAbbreviation":"never",
+"editor.parameterHints.enabled": false,
+"editor.suggest.showWords": false,
+"editor.quickSuggestions": {
+    "other": "off"
+}
+}
